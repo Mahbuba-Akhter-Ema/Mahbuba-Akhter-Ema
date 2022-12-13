@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1kmzhSapnrDTH-qj6XxoB-Qcr3sRmdzwv](https://drive.google.com/drive/u/0/folders/1kmzhSapnrDTH-qj6XxoB-Qcr3sRmdzwv)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I eat code😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
