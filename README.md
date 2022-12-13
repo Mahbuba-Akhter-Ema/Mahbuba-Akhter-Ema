@@ -1,4 +1,4 @@
-![MasterHead]([https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80](https://lottiefiles.com/44003-web-development))
+[![MasterHead](https://i.ibb.co/fGM3vb6/99087-web-development.gif)
 <h1 align="center">Hi 👋, I'm Mahbuba Akhter</h1>
 <h3 align="center">A passionate MERN Stack developer from US</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" srcset="">
