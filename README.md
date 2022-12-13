@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/fGM3vb6/99087-web-development.gif)
+![MasterHead](https://i.ibb.co/fGM3vb6/99087-web-development.gif)
 <h1 align="center">Hi 👋, I'm Mahbuba Akhter</h1>
 <h3 align="center">A passionate MERN Stack developer from US</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" srcset="">
