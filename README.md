@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mahbuba-akhter-ema.netlify.app/](https://mahbuba-akhter-ema.netlify.app/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/mahbuba-akhter-217367244/**
+- 📫 How to reach me **mahbubaakhter22@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1kmzhSapnrDTH-qj6XxoB-Qcr3sRmdzwv](https://drive.google.com/drive/u/0/folders/1kmzhSapnrDTH-qj6XxoB-Qcr3sRmdzwv)
 
