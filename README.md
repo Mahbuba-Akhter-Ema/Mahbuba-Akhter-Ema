@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbuba-akhter-ema&label=Profile%20views&color=0e75b6&style=flat" alt="mahbuba-akhter-ema" /> </p>
 
+- 🌱 I’m currently learning **Next.JS**
+
+- 💬 Ask me about **React, MERN Stack Development.**
+
 - 👨‍💻 All of my projects are available at [https://mahbuba-akhter-ema.netlify.app/](https://mahbuba-akhter-ema.netlify.app/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/mahbuba-akhter-217367244/**
